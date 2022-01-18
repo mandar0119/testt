@@ -1,0 +1,7 @@
+{
+    "name": "Test Case Execution Results Portal API Documentation",
+    "version": "0.1.0",
+    "description": "Documentation for the WEB Services access provided at Test Case Execution Results Portal",
+    "title": "Test Case Execution Results Portal",
+    "url" : "http://192.168.100.219:3071/api/"
+}

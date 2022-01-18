@@ -1,0 +1,20 @@
+{
+    "script": "./bin/www.js",
+    "watch": false,
+    "ignore_watch": [
+        "uploads",
+        "node_modules",
+        "database",
+        "assets"
+    ],
+    "watch_options": {
+        "followSymlinks": false
+    },
+    "env_development": {
+        "NODE_ENV": "development"
+    },
+    "env_production": {
+        "NODE_ENV": "production"
+    },
+    "name": "SampleNode"
+}
